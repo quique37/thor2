@@ -1,0 +1,103 @@
+h1 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: white;
+}
+
+div {
+    text-align: left;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+/* Sección de navbar e introducción */
+
+#titulo {
+    background-color: rgb(36,97,153);
+    color: white;
+    position: relative;
+    padding: 5% 10%;
+}
+
+.intro-texto {
+    padding-top: 5%;
+    color: orange;
+    font-size: 1.5rem;
+}
+
+.navbar {
+    padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0px 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+.presentacion {
+    color: white;
+}
+
+/* Sección de productos antrak y thor  */
+
+#productos {
+    padding: 5% 5%;
+}
+
+.thor-intro {
+    background-color: rgba(0,98,55);
+    height: 140px;
+    color: white;
+    text-align: center;
+}
+
+.antrak-intro {
+    background-color: rgba(61,67,146);
+    height: 140px;
+    color: white;
+    text-align: center;
+}
+
+/* Sección de Datos Físicos y Rangos */
+
+#datos-productos {
+    background-color: lightsteelblue;
+    padding: 5% 5%;
+    text-align: center;
+    color: white;
+}
+
+.datos-texto {
+    color: black;
+}
